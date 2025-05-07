@@ -7,6 +7,7 @@ package UjianTengahSemester;
 /**
  *
  * @author MUHAMMAD FARHAN
+ * @version 1.1
  */
 
 import javax.swing.*;
@@ -20,7 +21,7 @@ public class BMICalculator extends JFrame {
     private JLabel resultLabel;
 
     public BMICalculator() {
-        setTitle("BMI KalKulator");
+        setTitle("BMI KalKulator PRO Farhan");
         setSize(500, 250);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null); // Center the frame on the screen
